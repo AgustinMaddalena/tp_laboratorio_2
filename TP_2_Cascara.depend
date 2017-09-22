@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1493427826 source:c:\users\madda\desktop\cursada\tp-2\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+	<conio.h>
+
+1493426367 c:\users\madda\desktop\cursada\tp-2\tp_2_cascara\funciones.h
+
+1493427979 source:c:\users\madda\desktop\cursada\tp-2\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
